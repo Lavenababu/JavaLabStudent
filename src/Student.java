@@ -24,7 +24,7 @@ class StudentAverage{
         b.dbms = 90;
         b.math = 75;
         b.pcpf = 82;
-        b.pcom = 88;
+        b.pcom = 68;
 
         average1 = (a.dsa + a.dbms + a.math + a.pcpf + a.pcom)/5;
         average2 = (b.dsa + b.dbms + b.math + b.pcpf + b.pcom)/5;
